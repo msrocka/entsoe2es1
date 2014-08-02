@@ -1,0 +1,3 @@
+# this folder contains the Excel files with the ENTSO-E statistics
+*.xlsx
+*.xls
