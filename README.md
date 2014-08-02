@@ -31,5 +31,3 @@ into the `statistics` folder of this project. After this, run
     
 and the EcoSpold files are generated in the `out` folder.
 
-License
--------
